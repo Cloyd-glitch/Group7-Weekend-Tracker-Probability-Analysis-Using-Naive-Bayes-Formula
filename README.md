@@ -8,3 +8,21 @@ Predicting weekend Sentiments of my Peers in University of Southern Mindanao (US
 # Raw Data Collected from the Participants
 
 ![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/bd1e0d08d4dcbea0a24d1a2ae036b2cf1e02c163/screenshots/raw%20data.png)
+
+# Features Used to Calculate the Probability
+
+### Worship Services
+![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/744b94ade03f49f853776293a12ed76992c624ce/screenshots%20of%20data%20tables/worship%20data.png)
+
+### Location
+![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/744b94ade03f49f853776293a12ed76992c624ce/screenshots%20of%20data%20tables/location%20data.png)
+
+### Academic Load
+![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/744b94ade03f49f853776293a12ed76992c624ce/screenshots%20of%20data%20tables/academic%20data.png)
+
+### Financials
+![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/744b94ade03f49f853776293a12ed76992c624ce/screenshots%20of%20data%20tables/financials%20data.png)
+
+# Overall Probability Calculated of P(yes) and P(no) for Both Scenarios
+
+![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/744b94ade03f49f853776293a12ed76992c624ce/screenshots%20of%20data%20tables/overall%20calculation%20of%20data.png)
