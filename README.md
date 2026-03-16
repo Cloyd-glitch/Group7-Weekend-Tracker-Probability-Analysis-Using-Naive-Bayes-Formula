@@ -7,7 +7,7 @@ Predicting weekend Sentiments of my Peers in University of Southern Mindanao (US
 
 # Raw Data Collected from the Participants
 
-![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/bd1e0d08d4dcbea0a24d1a2ae036b2cf1e02c163/screenshots/raw%20data.png)
+![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/94838a3c9bc60e1768048b2088ea3cac6d3af883/screenshots%20of%20data%20tables/raw%20data.png)
 
 # Features Used to Calculate the Probability
 
