@@ -36,3 +36,7 @@ Predicting weekend Sentiments of my Peers in University of Southern Mindanao (US
 ![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/744b94ade03f49f853776293a12ed76992c624ce/screenshots%20of%20data%20tables/overall%20calculation%20of%20data.png)
 
 ![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/0d4ee5ada86fbfd7a5e06a7bca0317cb80e345f9/form/charts%20from%20forms/Label%20(Great%20or%20Terrible)%20chart.png)
+
+# Naive Bayes - Likelihood, Priors and Final Posteriors
+
+![Alt text](https://github.com/Cloyd-glitch/Group7-Weekend-Tracker-Probability-Analysis-Using-Naive-Bayes-Formula/blob/5e4e757fb7877074897987cef849b7ad755e707c/bar_chart.png)
